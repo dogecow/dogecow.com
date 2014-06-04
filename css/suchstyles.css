@@ -1,4 +1,9 @@
-div {
+html, body {
+	background-color: #fff;
+	color: #000;
+}
+
+body {
     margin: 0 auto 0 auto;
     width: 600px;
 }
